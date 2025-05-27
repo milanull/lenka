@@ -12,7 +12,7 @@ Tento nástroj slouží k vytěžování údajů z účetních dokladů ve form�
 1. Naklonujte repozitář nebo stáhněte soubory:
 
    ```bash
-   git clone https://example.com/lenka.git
+   git clone https://github.com/milanull/lenka.git
    cd lenka
    ```
 
