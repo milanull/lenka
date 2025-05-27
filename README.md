@@ -33,6 +33,10 @@ Tento nástroj slouží k vytěžování údajů z účetních dokladů ve form�
 
    ```env
    OPENAI_API_KEY=sk-tvuj_klic_zde
+   POHODA_SERVER_URL=http://localhost:8080/endpoint
+   POHODA_USERNAME=uzivatel
+   POHODA_PASSWORD=heslo
+   POHODA_AGENDA=FIRMA2024
    ```
 
 ## Použití

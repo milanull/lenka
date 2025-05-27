@@ -1,3 +1,5 @@
 openai
 pdfplumber
 python-dotenv
+requests
+lxml
